@@ -147,8 +147,6 @@ This ER diagram depicts a logistics management system where users can manage ord
 - **Foreign Keys (FK)**: Foreign keys like `userId` , `customerId` , `itemId` , and `vehicleId`  link the orders table to the respective entities.
 - **Relationships**: The diagram emphasizes the relationships between entities, ensuring that orders link correctly to customers, items, and vehicles, and
 
-
-## Demo Video Link: [﻿drive.google.com/file/d/1aBmZgDnsdHh-3ItU9vd7ubJpYeGk5t91/view?usp=sharing](https://drive.google.com/file/d/1aBmZgDnsdHh-3ItU9vd7ubJpYeGk5t91/view?usp=sharing) 
 ## GitHub Repository Link: [﻿github.com/KirtiKamal/logistics-delivery](https://github.com/KirtiKamal/logistics-delivery) 
 
 
